@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "martech-discovery-platform",
+  "compatibility_date": "2026-10-19",
+  "pages_build_output_dir": "./dist",
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "martech-discovery-platform-prod",
+      "database_id": "54f2f410-190a-455b-833c-6731d354d2ef",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

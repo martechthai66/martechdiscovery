@@ -1,0 +1,72 @@
+{
+  "BUZZEBEES": {
+    "brand": "Buzzebees",
+    "descriptionTh": "รีวิว Buzzebees แพลตฟอร์ม CRM & Loyalty อันดับ 1 ของไทย ครบทั้ง AdTech, MarTech, CommerceTech ในระบบเดียว วัด ROI ได้จริง ใช้งานโดย 500+ Brands ชั้นนำ",
+    "descriptionEn": "A CRM and loyalty platform that brings AdTech, MarTech, and CommerceTech together, with a focus on connecting customer engagement to sales outcomes.",
+    "sourceFile": "Buzzebees/Buzzebees-seo-content.md",
+    "sponsored": true
+  },
+  "Bytedance (byteplus)": {
+    "brand": "BytePlus",
+    "descriptionTh": "รีวิว BytePlus แพลตฟอร์ม AI-Native Enterprise จาก ByteDance ครบทั้ง Seed, Seedream, Seedance, HiAgent, ArkClaw — Multimodal AI ครบ Text, Voice, Video, Image",
+    "descriptionEn": "An enterprise AI and cloud platform from ByteDance, with multimodal models, AI agents, and infrastructure.",
+    "sourceFile": "Byteplus/BytePlus-seo-content.md",
+    "sponsored": true
+  },
+  "Clicknext": {
+    "brand": "Clicknext",
+    "descriptionTh": "รีวิว Clicknext All-in-One Marketing Platform ของไทย พร้อม AI Customer 360 แก้ปัญหา CDP ที่ Fail 70% Real Success Case Retail, Insurance, Healthcare",
+    "descriptionEn": "An all-in-one marketing platform focused on AI-powered Customer 360 and practical customer data use cases.",
+    "sourceFile": "Clicknext-seo-content.md",
+    "sponsored": true
+  },
+  "Funcrowd": {
+    "brand": "Funcrowd",
+    "descriptionTh": "รีวิว Funcrowd Ready Lifecycle Revenue Infrastructure ที่เปลี่ยน SME Marketing จาก Cost Center เป็น Revenue Engine ด้วย Data-Driven 3R Strategy: Recruit Remind Retain",
+    "descriptionEn": "A lifecycle and revenue platform for SME marketing, organized around recruiting, reminding, and retaining customers.",
+    "sourceFile": "Funcrowd-seo-content.md",
+    "sponsored": true
+  },
+  "Pixel": {
+    "brand": "PIXELS",
+    "descriptionTh": "รีวิว PIXELS AI CTV ที่เปลี่ยน CCTV เป็น Customer Tracking Vision วิเคราะห์ลูกค้าหน้าร้าน Real-time + LINE Notification + Love Memory เพิ่ม Conversion 5% รายได้โต 50%",
+    "descriptionEn": "An AI-enabled in-store customer tracking solution using CCTV analytics, real-time insights, and LINE notifications.",
+    "sourceFile": "Pixels-seo-content.md",
+    "sponsored": true
+  },
+  "Readyplanet": {
+    "brand": "Readyplanet",
+    "descriptionTh": "รีวิว Readyplanet AI SEO ที่เปลี่ยนเว็บไซต์ให้เป็นคำตอบที่ AI เลือก ครอบคลุม Conversational Keywords, On-Page, Technical SEO, Off-Page เตรียมพร้อมยุค Answer Engine",
+    "descriptionEn": "An AI SEO offering focused on conversational keywords and on-page, technical, and off-page optimization for answer engines.",
+    "sourceFile": "Readyplanet-seo-content.md",
+    "sponsored": true
+  },
+  "Yell": {
+    "brand": "Yell Bangkok",
+    "descriptionTh": "รีวิว Yell Bangkok เอเจนซีไทยที่ Building Global-Ready Agency ผ่าน People และ Culture Turnover Rate <5% Growth Rate 45.95% Revenue/Head +40.74% โดยคุณ Pare",
+    "descriptionEn": "A Bangkok agency profile focused on building a global-ready agency through its people and organizational culture.",
+    "sourceFile": "Yell-Bangkok-seo-content.md",
+    "sponsored": true
+  },
+  "COM7": {
+    "brand": "Com7 Business",
+    "descriptionTh": "รีวิว Com7 Business AWS Partner Advanced Tier Services พร้อม Professional Services และ Kiro Agentic AI ที่เปลี่ยน Idea Campaign เป็น Production ด้วย Spec-driven Development",
+    "descriptionEn": "An AWS cloud and AI services partner offering professional services and agentic AI development tools such as Kiro.",
+    "sourceFile": "com7-business-seo-content.md",
+    "sponsored": true
+  },
+  "LINE Business": {
+    "brand": "LINE Business",
+    "descriptionTh": "รีวิว LINE Business Solutions ขับเคลื่อนยอดขายด้วย LINE OA + MyShop พร้อมฟีเจอร์ Bank Transfer, Customer Profile, Schedule Message, AI Chatbot สำหรับธุรกิจไทย",
+    "descriptionEn": "LINE Business Solutions brings LINE OA and MyShop together with features including bank transfer, customer profiles, scheduled messages, and an AI chatbot for Thai businesses.",
+    "sourceFile": "LINE-Business-seo-content.md",
+    "sponsored": true
+  },
+  "Mudjai CRM": {
+    "brand": "Mudjai CRM",
+    "descriptionTh": "รีวิว Mudjai CRM ที่ครอบคลุม 5A Customer Journey, RFM, Hyper-Personalization, Next Gen Loyalty Program ด้วย AI Insight & Recommendation รู้ลึก รู้ใจ รู้จริง",
+    "descriptionEn": "Mudjai CRM combines a 5A customer journey, RFM analysis, hyper-personalization, and a next-generation loyalty program with AI insights and recommendations.",
+    "sourceFile": "Mudjai-CRM-seo-content.md",
+    "sponsored": true
+  }
+}
